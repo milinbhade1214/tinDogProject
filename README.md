@@ -1,1 +1,2 @@
-TinDog Starting Files
+# Tindog project 
+-- Complete Web Developer Course by Angela Yu 
